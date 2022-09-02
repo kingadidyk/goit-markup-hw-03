@@ -412,10 +412,6 @@ box-shadow: 0px 1px 3px rgb(0 0 0 / 12%), 0px 1px 1px rgb(0 0 0 / 14%), 0px 2px 
   
 }
 
-.cards-items > img {
-  display: block;
-}
-
 .border-image {
   border-left: 1px solid var(--border2-color);
   border-right: 1px solid var(--border2-color);
@@ -434,3 +430,13 @@ box-shadow: 0px 1px 3px rgb(0 0 0 / 12%), 0px 1px 1px rgb(0 0 0 / 14%), 0px 2px 
   margin: 0;
 }
 
+.photo-describe-portfolio {
+  color: var(--text-color);
+  background-color: var(--background4-color);
+  font-size: 16px;
+  line-height: 1.18;
+  font-weight: 400px;
+  letter-spacing: 0.03em;;
+  padding: 0px 24px 20px 24px;
+  margin: 0;
+}
