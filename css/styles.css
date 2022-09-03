@@ -208,7 +208,7 @@ img {
   line-height: 1.36;
   letter-spacing: 0.06em;
   text-align: center;
-  margin: 0 252px 0 252px;
+  padding: 0 252px 0 252px;
 }
 
 .box {
@@ -358,6 +358,7 @@ box-shadow: 0px 1px 3px rgb(0 0 0 / 12%), 0px 1px 1px rgb(0 0 0 / 14%), 0px 2px 
 
 .section-team {
   background-color: var(--background2-color);
+  width: 100%;
 }
 
 /* portfolio */
